@@ -395,3 +395,10 @@ Price Bucket	=IF(actual_price<200,"<₹200",IF(actual_price<=500,"₹200–₹50
 Correlation	=CORREL(rating_range, discount_percentage_range)
 Combined Score	=rating * LN(rating_count + 1)
 
+![image](https://github.com/user-attachments/assets/c55e8fe7-b9ae-4561-9010-cf3911f78ffd)
+
+![image](https://github.com/user-attachments/assets/1e80d734-d128-47b9-a22f-2796f04e91ac)
+
+![image](https://github.com/user-attachments/assets/63559e74-bd29-4a90-a367-78590e8d5166)
+
+
